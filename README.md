@@ -28,18 +28,24 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Flutter SDK: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+- Flutter SDK: Make sure you have the Flutter SDK installed on your machine. For more information, see the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 - An editor like Android Studio or VS Code with the Flutter plugin.
 
 ### Installation
 
-1.  Clone the repository.
-2.  Navigate to the project directory.
-3.  Install the dependencies:
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/your_username/flutter_login_app.git
+    ```
+2.  Navigate to the project directory
+    ```sh
+    cd flutter_login_app
+    ```
+3.  Install dependencies
     ```sh
     flutter pub get
     ```
-4.  Run the app:
+4.  Run the app
     ```sh
     flutter run
     ```
