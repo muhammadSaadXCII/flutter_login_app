@@ -16,6 +16,12 @@ A simple Flutter application built to demonstrate a basic login flow. This proje
     - The password field is validated to ensure it is not empty.
 - **UI Structure:** The UI is built using basic Flutter widgets like `Column`, `Row`, and `Container`.
 
+## Screenshots
+
+| Login Screen | Home Screen |
+|---|---|
+| ![Login Screen](assets/screenshots/login_screen.png) | ![Home Screen](assets/screenshots/home_screen.png) |
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
